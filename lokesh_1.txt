@@ -6,3 +6,6 @@ lokesh 5th
 lokesh a
 lokesh b 
 lokeshc c
+lokesh a
+lokesh b 
+lokeshc c
